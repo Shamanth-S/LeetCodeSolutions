@@ -1,4 +1,4 @@
-package com.leetcode.medium;
+package com.leetcode._02_medium;
 
 import java.util.Scanner;
 
